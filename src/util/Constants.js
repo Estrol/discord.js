@@ -64,9 +64,9 @@ exports.DefaultOptions = {
     large_threshold: 50,
     compress: false,
     properties: {
-      $os: browser ? 'browser' : process.platform,
-      $browser: 'discord.js',
-      $device: 'discord.js',
+      $os: 'iOS 12.1.1',
+      $browser: 'Discord iOS',
+      $device: 'iPhone 10,6',
     },
     version: 6,
   },
